@@ -1,3 +1,5 @@
 # Selenium_Test
 repository for selenium tests
-# test for stepik
+/----------------------------/
+Папка stepik_modul_2 содержит файлы решений задач из второго модуля.
+/----------------------------/
