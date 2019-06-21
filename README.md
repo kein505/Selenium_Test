@@ -13,3 +13,6 @@ sendToStepik.py происходит переход на страницу пос
 Авторизация происходит с помощью файла auth.
 Особая благодарность VitaliyYa https://stepik.org/users/104430773
 /----------------------------/
+В папку should_see_button добавлен тест по поиску кнопки на странице, + используются комманды для выбора браузера (chrom or firefox) и выбора языка (ru, en etc...): 
+pytest --language="es" --browser_name=chrome test_items.py
+/----------------------------/
